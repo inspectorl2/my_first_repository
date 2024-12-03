@@ -2,3 +2,4 @@ print('Этот файл создан в новом репозитории на 
 print('Привет')
 print("Hi")
 print("Hi")
+print("Hi3")
